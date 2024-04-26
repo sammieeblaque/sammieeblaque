@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sammieeblaque
-- 👀 I’m interested in Software Engineering. I currently specialize in building frontend application. 
+- 👀 I’m interested in Software Engineering. I currently specialize in building frontend applications. 
      I'm also interested in building scalable backend API's as well as using Machine Learning to solve problems.
-- 🌱 I’m currently learning GraphQl (Apollo) as well as Golang
-- 💞️ I’m looking to collaborate on React & Vue projects as well as Node(Express) if possible
+- 💞️ I’m looking to collaborate on React & Vue projects as well as Node(Express.js, Nest.js) if possible
 
 
 <!---
