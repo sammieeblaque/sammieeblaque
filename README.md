@@ -11,10 +11,6 @@ I work on fintech and healthcare platforms, specializing in scalable systems tha
 - Dynamic, config-driven systems that scale without code changes
 - Full-stack features from database design to user interface
 
-**Side Projects:**
-- **[Aire Inventory](link)** - Fullstack inventory management for small businesses (React + NestJS + PostgreSQL)
-- **[Kuboyd](link)** - Digital banking API with secure transactions (Express.js + MongoDB)
-
 ## Tech I Work With 💻
 
 **Frontend:** React, Vue.js, TypeScript, TailwindCSS, React Native  
@@ -76,7 +72,7 @@ I believe in:
 ## Let's Connect 📬
 
 - **Email:** odianoseairehrour@gmail.com
-- **LinkedIn:** [Samuel Airehrour](link)
+- **LinkedIn:** [Samuel Airehrour](https://www.linkedin.com/in/sammiee/)
 - **GitHub:** Right here! Check out my repos below 👇
 
 **Currently open to:** Fullstack roles, interesting contract work, and collaborations on projects that matter.
