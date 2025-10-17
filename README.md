@@ -75,7 +75,7 @@ I believe in:
 - **LinkedIn:** [Samuel Airehrour](https://www.linkedin.com/in/sammiee/)
 - **GitHub:** Right here! Check out my repos below 👇
 
-**Currently open to:** Fullstack roles, interesting contract work, and collaborations on projects that matter.
+**Currently open to:** Senior Frontend/Backend roles, interesting contract work, and collaborations on projects that matter.
 
 ---
 
