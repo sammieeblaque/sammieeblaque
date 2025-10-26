@@ -17,15 +17,6 @@ I work on fintech and healthcare platforms, specializing in scalable systems tha
 **Backend:** Node.js, NestJS, Express.js, PostgreSQL, MongoDB, Redis  
 **Infrastructure:** Docker, AWS, GCP, CI/CD (GitLab, CircleCI)
 
-## Things I've Shipped 📦
-
-- **International payment systems** handling multiple currencies with 97%+ success rates
-- **HIPAA-compliant healthcare platforms** with end-to-end encryption
-- **Dynamic form renderers** that scale across countries without engineering effort
-- **Multi-tenant SaaS platforms** serving thousands of users
-- **Mobile apps** with 4+ star ratings on app stores
-- **Role-based permission systems** controlling access across entire platforms
-
 ## What Gets Me Excited 🔥
 
 - Building systems that scale without breaking
@@ -42,13 +33,6 @@ I work on fintech and healthcare platforms, specializing in scalable systems tha
 - **Fintech or healthcare** - I've shipped in both industries and understand the compliance requirements
 - **Developer tools** - Always interested in building things that make developers' lives easier
 - **Open source** - If you're working on something interesting, let's talk
-
-## Recent Wins 🏆
-
-- Reduced onboarding processes from weeks to days through automation
-- Built compliance systems scaling across multiple countries
-- Shipped MVPs that secured first paying customers
-- Architected permission systems used by thousands of users daily
 
 ## How I Think About Code 💭
 
