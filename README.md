@@ -1,13 +1,13 @@
 # Hey, I'm Samuel 👋
 
-**Fullstack Engineer** building products that solve real problems.
+**Software Engineer** building products that solve real problems.
 
 I work on fintech and healthcare platforms, specializing in scalable systems that handle real user problems—from international payments to HIPAA-compliant healthcare applications. I believe in shipping quality code that's maintainable, well-tested, and actually solves the problems it's supposed to solve.
 
 ## What I Build 🚀
 
 **Current Focus:**
-- Fintech infrastructure for cross-border payments and compliance
+- Fintech infrastructure for cross-border payments.
 - Dynamic, config-driven systems that scale without code changes
 - Full-stack features from database design to user interface
 
@@ -48,16 +48,14 @@ I believe in:
 
 - I've shipped production code in React, Vue, and React Native
 - Started with electrical engineering, now I engineer software
-- Based in Abuja, Nigeria 🇳🇬
 - I think Redux Toolkit is underrated and everyone should use RTK Query
-- My debugging strategy: console.log everywhere, then clean it up (we've all been there)
 - Believe in building systems that shift control from engineers to business teams
 
 ## Let's Connect 📬
 
-- **Email:** odianoseairehrour@gmail.com
+- **Email:** airehrour.samuel@gmail.com
 - **LinkedIn:** [Samuel Airehrour](https://www.linkedin.com/in/sammiee/)
-- **GitHub:** Right here! Check out my repos below 👇
+- **GitHub:** [Github](https://www.github.com/sammieeblaque)
 
 **Currently open to:** Senior Frontend/Backend roles, interesting contract work, and collaborations on projects that matter.
 
