@@ -17,14 +17,6 @@ I work on fintech and healthcare platforms, specializing in scalable systems tha
 **Backend:** Node.js, NestJS, Express.js, PostgreSQL, MongoDB, Redis  
 **Infrastructure:** Docker, AWS, GCP, CI/CD (GitLab, CircleCI)
 
-## What Gets Me Excited 🔥
-
-- Building systems that scale without breaking
-- Creating developer experiences that don't suck
-- Turning complex business requirements into simple, maintainable code
-- Performance optimization (Redis caching, API latency, that kind of thing)
-- Writing tests that actually catch bugs (85%+ coverage where it matters)
-- Config-driven architecture that puts power in non-technical hands
 
 ## Open to Collaborating On 🤝
 
@@ -34,22 +26,6 @@ I work on fintech and healthcare platforms, specializing in scalable systems tha
 - **Developer tools** - Always interested in building things that make developers' lives easier
 - **Open source** - If you're working on something interesting, let's talk
 
-## How I Think About Code 💭
-
-I believe in:
-- **Pragmatic architecture** - Use the right tool for the job, not the trendy one
-- **Readable over clever** - Your code should explain itself
-- **Testing what matters** - Not chasing 100% coverage, but covering critical paths
-- **Iteration over perfection** - Ship, learn, improve
-- **Documentation** - Future you (and your teammates) will thank you
-- **Empowering non-technical teams** - Good systems reduce engineering bottlenecks
-
-## Fun Facts About Me 🎯
-
-- I've shipped production code in React, Vue, and React Native
-- Started with electrical engineering, now I engineer software
-- I think Redux Toolkit is underrated and everyone should use RTK Query
-- Believe in building systems that shift control from engineers to business teams
 
 ## Let's Connect 📬
 
